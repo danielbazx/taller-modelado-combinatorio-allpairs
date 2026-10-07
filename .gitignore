@@ -1,0 +1,7 @@
+# Ignorar artefactos temporales y entorno local
+__pycache__/
+*.py[cod]
+*$py.class
+slides_img/
+.vscode/
+.idea/
